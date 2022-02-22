@@ -6,9 +6,14 @@ You can check "https://stackoverflow.com/questions/50951955/pytesseract-tesserac
 
 I will add "User Interface" on this program.
 
-Read image
-OCR
-Create docx file 
-Convert docx to pdf
-Show image
-Close
+1- Read image
+
+2- OCR
+
+3- Create docx file 
+
+4- Convert docx to pdf
+
+5- Show image
+
+6- Close
